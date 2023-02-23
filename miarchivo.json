@@ -1,0 +1,40 @@
+{
+  "squadName" : "Angy Beltran",
+  "Ciudad" : "Bogota",
+  "Año" : 2023,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Susan Storm",
+      "edad" : 37,
+      "secretIdentity" : "La mujer invisible",
+      "powers" : [
+        "Invisible",
+        "Energia psionica"
+        
+      ]
+    },
+    {
+      "name" : " Barbara Gordon",
+      "age" : 24,
+      "secretIdentity" : "Batichica",
+      "powers" : [
+        "Aviación",
+        "Artes marciales",
+        "Buena punteria"
+      ]
+    },
+    {
+      "name" : "Carol Danvers",
+      "age" : 50,
+      "secretIdentity" : "Capitana Marvel",
+      "powers" : [
+        "Vuelo",
+        "Resistencia y agilidad",
+        "Versatil e Invulnerable"
+        
+      ]
+    }
+  ]
+}
